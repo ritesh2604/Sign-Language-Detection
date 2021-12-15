@@ -16,7 +16,16 @@ The App will have the following features-
 7. Chatbot - to fight against depression and anxiety (will provide thoughts,          motivation, etc)
 
 ### Team Members
-- Dhriti Mabian
+- Dhriti Mabian 
 - Aadyaa Navalkar
-- Jash Bhatia
-- Ritesh Jagtap
+- Jash Bhatia (jashbhatia14@gmail.com)
+- Ritesh Jagtap (jagtapritesh2604@gmail.com)
+
+#####Features Implemented
+Sign Lanagauge Detection Program 
+
+#####Features Left
+1. Adding Dataset
+2. App Interface
+
+
