@@ -21,10 +21,10 @@ The App will have the following features-
 - Jash Bhatia (jashbhatia14@gmail.com)
 - Ritesh Jagtap (jagtapritesh2604@gmail.com)
 
-#####Features Implemented
+##### Features Implemented
 Sign Lanagauge Detection Program 
 
-#####Features Left
+##### Features Left
 1. Adding Dataset
 2. App Interface
 
