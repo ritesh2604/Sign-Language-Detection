@@ -17,10 +17,15 @@ The App will have the following features-
 6. Chatbot - to fight against depression and anxiety (will provide thoughts,          motivation, etc)
 
 ### Team Members
-- Dhriti Mabian (dhritimabian123@gmail.com)
-- Aadyaa Navalkar (annavalkar0217@gmail.com)
-- Jash Bhatia (jashbhatia14@gmail.com)
-- Ritesh Jagtap (jagtapritesh2604@gmail.com)
+- [Dhriti Mabian](https://github.com/Dhriti03)
+- [email](dhritimabian123@gmail.com)
+- [Aadyaa Navalkar](https://github.com/Aadyaa30)
+- [email](annavalkar0217@gmail.com)
+- [Jash Bhatia](https://github.com/JashbGIT)
+- [email](jashbhatia14@gmail.com)
+- 
+- [Ritesh Jagtap](https://github.com/ritesh2604)
+- (jagtapritesh2604@gmail.com)
 
 ### Mentors
 - Sarah Tisekar
